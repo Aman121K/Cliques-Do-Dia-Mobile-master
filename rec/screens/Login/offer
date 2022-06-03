@@ -1,0 +1,20 @@
+___CREATE AD____
+/api/user/create-ad
+
+title:This is title 
+short_desc:12345678901123456789012345678900
+cat_id:1
+address:address
+city_id:1
+zip_code:385320
+phone:123456789
+description:description
+min_price:100
+max_price:200
+amenities:1,2,3
+total_allowed_coupon:10
+users_coupon_per_day:1
+coupon_begin_hour:05:10
+coupon_end_hour:6:00
+coupon_start_date:2019-03-06
+coupon_end_date:2019-03-10

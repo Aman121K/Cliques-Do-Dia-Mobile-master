@@ -1,0 +1,16 @@
+{
+  "name": "FitnessApp",
+  "displayName": "Cliques-Do-Dia"
+}
+// {
+//   "expo": {
+//     "name": "Cliques-Do-Dia",
+//     "displayName": "Cliques-Do-Dia",
+//     "sdkVersion": "25.0.0",
+//     "android": {
+//       "package": "br.com.cliquepede",
+//       "versionCode": 1,
+//       "permissions": [],
+//      }
+//   }
+// }

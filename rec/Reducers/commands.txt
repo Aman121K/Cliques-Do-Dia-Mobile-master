@@ -1,0 +1,1 @@
+mac permision issue = npm install --unsafe-perm 

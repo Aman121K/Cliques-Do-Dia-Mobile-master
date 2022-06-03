@@ -1,0 +1,37 @@
+api/login/google
+
+google_id:1234567891110
+email:demo22@gmail.com
+first_name:ABcd
+last_name:XYZ
+
+
+
+
+api/login/fb
+
+facebook_id:12345678911100
+email:demo223@gmail.com
+first_name:ABcd
+last_name:XYZ
+
+
+
+
+Review mate ni API
+
+api/user/offer/{offer_id}/post-review
+Example : api/user/offer/63/post-review
+
+
+Params : 
+
+title:
+review:
+rating:
+
+
+rating number ma aapvanu che 
+
+rating:1
+rating:2 aem

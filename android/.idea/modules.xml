@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/@react-native-community/blur/android/@react-native-community_blur.iml" filepath="$PROJECT_DIR$/../node_modules/@react-native-community/blur/android/@react-native-community_blur.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FitnessApp.iml" filepath="$PROJECT_DIR$/FitnessApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/@react-native-community/blur/android/android-@react-native-community_blur.iml" filepath="$PROJECT_DIR$/../node_modules/@react-native-community/blur/android/android-@react-native-community_blur.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-fbsdk/android/android-react-native-fbsdk.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-fbsdk/android/android-react-native-fbsdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/android-react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/android-react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-google-signin/android/android-react-native-google-signin.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-google-signin/android/android-react-native-google-signin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-image-picker/android/android-react-native-image-picker.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-image-picker/android/android-react-native-image-picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-linear-gradient/android/android-react-native-linear-gradient.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-linear-gradient/android/android-react-native-linear-gradient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-sound/android/android-react-native-sound.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-sound/android/android-react-native-sound.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-svg/android/android-react-native-svg.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-svg/android/android-react-native-svg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-webview/android/android-react-native-webview.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-webview/android/android-react-native-webview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/@react-native-community/blur/android/blur-android-@react-native-community_blur.iml" filepath="$PROJECT_DIR$/../node_modules/@react-native-community/blur/android/blur-android-@react-native-community_blur.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-fbsdk/android/react-native-fbsdk.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-fbsdk/android/react-native-fbsdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-fbsdk/android/react-native-fbsdk-android-react-native-fbsdk.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-fbsdk/android/react-native-fbsdk-android-react-native-fbsdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/react-native-gesture-handler-android-react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/react-native-gesture-handler-android-react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-google-signin/android/react-native-google-signin.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-google-signin/android/react-native-google-signin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-google-signin/android/react-native-google-signin-android-react-native-google-signin.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-google-signin/android/react-native-google-signin-android-react-native-google-signin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-image-picker/android/react-native-image-picker.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-image-picker/android/react-native-image-picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-image-picker/android/react-native-image-picker-android-react-native-image-picker.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-image-picker/android/react-native-image-picker-android-react-native-image-picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-linear-gradient/android/react-native-linear-gradient.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-linear-gradient/android/react-native-linear-gradient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-linear-gradient/android/react-native-linear-gradient-android-react-native-linear-gradient.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-linear-gradient/android/react-native-linear-gradient-android-react-native-linear-gradient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-share/android/react-native-share.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-share/android/react-native-share.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-sound/android/react-native-sound.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-sound/android/react-native-sound.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-sound/android/react-native-sound-android-react-native-sound.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-sound/android/react-native-sound-android-react-native-sound.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-svg/android/react-native-svg.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-svg/android/react-native-svg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-svg/android/react-native-svg-android-react-native-svg.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-svg/android/react-native-svg-android-react-native-svg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-video/android-exoplayer/react-native-video.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-video/android-exoplayer/react-native-video.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-webview/android/react-native-webview.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-webview/android/react-native-webview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-webview/android/react-native-webview-android-react-native-webview.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-webview/android/react-native-webview-android-react-native-webview.iml" />
+    </modules>
+  </component>
+</project>
